@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="we_will_help_you_to_grow_business_using_online_server">We will help you to grow business using online server</string>
+    <string name="grow_your_business">GROW YOUR BUSINESS</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="login">LOGIN</string>
+    <string name="todo">TODO</string>
+</resources>
